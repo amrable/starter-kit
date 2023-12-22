@@ -25,10 +25,15 @@ Blog Starter Kit lets you instantly deploy a Next.js and Tailwind powered fronte
 
 # Live Demos
 
-- [Personal Blog](https://sandeep.dev/blog)
-- [Enterprise Blog](https://demo.hashnode.com/engineering)
+- [Personal theme](https://sandeep.dev/blog)
+- [Enterprise theme](https://demo.hashnode.com/engineering)
+- [Hashnode theme](https://saikrishna.dev/blog)
 
-We also have a third theme called "hashnode", but there is currently no live demo available.
+# Example company blogs built with Headless
+
+- [Outerbase](https://outerbase.com/blog)
+- [Fern](https://blog.buildwithfern.com/)
+- [Fix](https://fix.tt/blog)
 
 ## How to deploy
 
@@ -149,7 +154,6 @@ If you prefer to build your frontend from scratch, you can use our public GraphQ
 
 - [Docs](https://apidocs.hashnode.com)
 - [GraphQL Playground](https://gql.hashnode.com)
-- [Generate queries/mutations by talking to AI](https://chatgql.com/chat?url=https://gql.hashnode.com)
 
 ## Demo Videos
 
