@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@vercel/analytics':
-        specifier: ^1.1.1
-        version: 1.1.1
       classnames:
         specifier: ^2.3.1
         version: 2.3.2
