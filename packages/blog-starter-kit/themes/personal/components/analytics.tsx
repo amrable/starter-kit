@@ -7,7 +7,7 @@ const GA_TRACKING_ID = 'G-72XG3F8LNJ'; // This is Hashnode's GA tracking ID
 const isProd = process.env.NEXT_PUBLIC_MODE === 'production';
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_URL || '';
 
-export const Analytics = () => {
+export const Analytic = () => {
 	const { publication, post } = useAppContext();
 
 	useEffect(() => {
